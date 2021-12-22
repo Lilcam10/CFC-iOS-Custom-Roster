@@ -294,7 +294,7 @@
             "name" : "Mel Tucker",
             "contractYear" : "0"
           },
-          "name" : "Michigan State",
+          "name" : "Michigan St",
           "state" : "Michigan"
         },
         {
@@ -836,7 +836,7 @@
             "name" : "Gary Patterson",
             "contractYear" : "0"
           },
-          "name" : "TCU",
+          "name" : "Texas Christian",
           "state" : "Texas"
         },
         {
@@ -1059,7 +1059,7 @@
             "name" : "Clay Helton",
             "contractYear" : "0"
           },
-          "name" : "USC",
+          "name" : "Southern Cal",
           "state" : "California"
         },
         {
@@ -1259,7 +1259,7 @@
             "contractYear" : "0"
           },
           "name" : "Central Florida",
-          "state" : "Florida"
+          "state" : "Flordia"
         },
         {
           "abbreviation" : "USF",
@@ -1306,7 +1306,7 @@
             "name" : "Luke Fickell",
             "contractYear" : "0"
           },
-          "name" : "Cincinnatti",
+          "name" : "Cincinnati",
           "state" : "Ohio"
         },
         {
@@ -1426,7 +1426,7 @@
             "name" : "Sonny Dikes",
             "contractYear" : "0"
           },
-          "name" : "SMU",
+          "name" : "Southern Methodist",
           "state" : "Texas"
         },
         {
@@ -2836,7 +2836,7 @@
             "name" : "Danny Rocco",
             "contractYear" : "0"
           },
-          "name" : "Delaware",
+          "name" : "Delware",
           "state" : "Delaware"
         },
         {
@@ -2989,5 +2989,17 @@
   "Military Bowl",
   "First Responder Bowl",
   "Birmingham Bowl",
-  "Dollar General Bowl"]
+  "Dollar General Bowl",
+  "Independence Bowl",
+  "Gasparilla Bowl",
+  "New Mexico Bowl",
+  "Cheez-It Bowl",
+  "Hawai'i Bowl",
+  "Famous Idaho Potato Bowl",
+  "New Orleans Bowl",
+  "Armed Forces Bowl",
+  "Cure Bowl",
+  "Bahamas Bowl",
+  "Quick Lane Bowl",
+  "Frisco Bowl"]
 }
