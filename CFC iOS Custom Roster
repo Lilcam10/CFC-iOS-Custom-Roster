@@ -9,7 +9,7 @@
           "rival": "AUB",
           "headCoach" : {
             "contractLength": "7",
-            "startYear" : "2007",
+            "startYear" : "2020",
             "age": "70",
             "ratOff" : "95",
             "cumulativePrestige" : "95",
@@ -33,7 +33,7 @@
           "rival" : "UF",
           "headCoach" : {
             "contractLength" : "5",
-            "startYear" : "2016",
+            "startYear" : "2020",
             "age" : "46",
             "ratOff" : "85",
             "cumulativePrestige" : "30",
