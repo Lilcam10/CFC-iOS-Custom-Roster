@@ -7,21 +7,6 @@
           "prestige": "95",
           "hexColor" : "A60C31",
           "rival": "AUB",
-          "headCoach" : {
-            "contractLength": "7",
-            "startYear" : "2020",
-            "age": "67",
-            "ratOff" : "93",
-            "cumulativePrestige" : "100",
-            "ratDef": "97",
-            "homeState" : "West Virginia",
-            "ratPot" : "75",
-            "ratTalent" : "95",
-            "baselinePrestige" : "80",
-            "ratDiscipline": "97",
-            "ratOvr" : "94",
-            "name" : "Nick Saban",
-            "contractYear" : "0"
           },
           "name" : "Alabama",
           "state" : "Alabama"
@@ -34,7 +19,7 @@
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2020",
-            "age" : "43",
+            "age" : "46",
             "ratOff" : "85",
             "cumulativePrestige" : "30",
             "ratDef" : "73",
