@@ -28,7 +28,7 @@
         },
         {
           "abbreviation" : "UGA",
-          "prestige" : "91",
+          "prestige" : "95",
           "hexColor" : "#BA0C2F",
           "rival" : "UF",
           "headCoach" : {
@@ -52,7 +52,7 @@
         },
         {
           "abbreviation" : "UF",
-          "prestige" : "86",
+          "prestige" : "79",
           "hexColor" : "#0021A5",
           "rival" : "UGA",
           "headCoach" : {
@@ -76,12 +76,12 @@
         },
         {
           "abbreviation" : "TENN",
-          "prestige" : "72",
+          "prestige" : "89",
           "hexColor" : "#FF8200",
-          "rival" : "VAND",
+          "rival" : "Bama",
           "headCoach" : {
             "contractLength" : "5",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "45",
             "ratOff" : "66",
             "cumulativePrestige" : "3",
@@ -100,7 +100,7 @@
         },
         {
           "abbreviation" : "LSU",
-          "prestige" : "92",
+          "prestige" : "74",
           "hexColor" : "#461D7C",
           "rival" : "ARK",
           "headCoach" : {
@@ -124,7 +124,7 @@
         },
         {
           "abbreviation" : "MISS",
-          "prestige" : "73",
+          "prestige" : "89",
           "hexColor" : "#14213D",
           "rival" : "MSST",
           "headCoach" : {
@@ -196,7 +196,7 @@
         },
         {
           "abbreviation" : "AUB",
-          "prestige" : "82",
+          "prestige" : "87",
           "hexColor" : "#03244D",
           "rival" : "BAMA",
           "headCoach" : {
